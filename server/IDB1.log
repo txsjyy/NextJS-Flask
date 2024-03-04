@@ -1,0 +1,412 @@
+commit 3575bd388447ab6b9cc80d62758925e18092a0dc
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Wed Feb 21 11:34:47 2024 -0600
+
+    changed http to https for videos
+
+commit 69f5882e6445065d3aaa5a72c103ca21c8b82848
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Wed Feb 21 11:15:05 2024 -0600
+
+    added stats, links to top, log updates
+
+commit c69fc0ad1da847c333d2f8aff4f24561b0b61943
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Wed Feb 21 10:56:47 2024 -0600
+
+    modified makefile, log and added tools
+
+commit 48a34e7f3d003ac56a314e748bf52ef969b28aa5
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Wed Feb 21 09:45:13 2024 -0600
+
+    updated commit log for phase 1
+
+commit d7bdb670333cb643d0df59b4d0fef9263612b2b0
+Author: Adrian Barajas <adrian.barajas@utexas.edu>
+Date:   Tue Feb 20 20:55:09 2024 -0600
+
+    Linked channel.html page to playlist page
+
+commit c0d34a33cdc47255350c68277fb8063a07f53f24
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Tue Feb 20 19:58:50 2024 -0600
+
+    formatting, added hardcoded playlist button
+
+commit e32527ffb3f1f7844efe726a0a2c8e715f91fdf0
+Author: Junyu Yao <yaojunyu@utexas.edu>
+Date:   Tue Feb 20 18:43:52 2024 -0600
+
+    # Add detail playlist page, link to channel and video
+
+commit 2741cca768afbf304df98e3bb8cf95293601da69
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Tue Feb 20 17:24:23 2024 -0600
+
+    formatting, added links, fixed video links to gallery
+
+commit da7a79352ff6a35bb37814f274c0c3f9f2daa38a
+Author: Adrian Barajas <adrian.barajas@utexas.edu>
+Date:   Tue Feb 20 16:39:41 2024 -0600
+
+    Changed the Navbar link for channels in the channel.html page
+
+commit e049ee4784b72627c0c4e43ed8811ae4735ea2ac
+Author: Adrian Barajas <adrian.barajas@utexas.edu>
+Date:   Tue Feb 20 13:39:26 2024 -0600
+
+    Added Channel page which includes channel specs, edited channels page to only include logos and links, and edited main.py
+
+commit 50c96de4bf116a54cfce6aec31a951407e935365
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Tue Feb 20 12:17:55 2024 -0600
+
+    added ability to watch missing videos on youtube
+
+commit 2e54ddbf16c3bc744a42aec6e7a64e9bae29b11d
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Tue Feb 20 11:52:32 2024 -0600
+
+    added icons to statistics, missing video handling, reformatted links
+
+commit 8c6676867b219840b10adecdf700c047a22f6cfd
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Tue Feb 20 00:02:51 2024 -0600
+
+    added single video page connection
+
+commit 29773791b64d99a02f27e38ab2f3abaa1e2707b1
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Mon Feb 19 11:34:15 2024 -0600
+
+    added placeholder files and added solo video page
+
+commit 998e8fb413602b854b97a8a935226ee9f71e2846
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Wed Feb 14 10:13:21 2024 -0600
+
+    moved youtubePlayer script out of video.html
+
+commit f45b8ae4f883ea0a7d05b072360f6d8019e32169
+Author: Junyu Yao <yaojunyu@utexas.edu>
+Date:   Tue Feb 13 21:58:19 2024 -0600
+
+    Add link between pages, removed index.html
+
+commit 18f855cfae878acb32b9c5e0845e61b69cd83d57
+Author: Adrian Barajas <adrian.barajas@utexas.edu>
+Date:   Tue Feb 13 17:29:52 2024 -0600
+
+    Updated Channels page to include a link from channels to videos page
+
+commit 28b2e8f5c22a1ea32aa22db2b608712f2aec4238
+Author: Adrian Barajas <adrian.barajas@utexas.edu>
+Date:   Tue Feb 13 17:11:06 2024 -0600
+
+    Updated Channels page to include channels in row form and drop down description
+
+commit b464e2666814ba822f0e21e17174ea009f602359
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Tue Feb 13 14:29:57 2024 -0600
+
+    finished links to channel and playlist pages
+
+commit 27d273535219e61ccadb8aa4a32875c0b1603446
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Tue Feb 13 14:10:09 2024 -0600
+
+    resized video cards, added more attributes, working on links to each channel
+
+commit 2cac97e27a91d50312325b65cc8a328d7e5275f5
+Author: Adrian Barajas <adrian.barajas@utexas.edu>
+Date:   Mon Feb 12 15:29:16 2024 -0600
+
+    added more channel.json content
+
+commit 88265a2c9dae1f965aff67e54414428a405e1352
+Author: Adrian Barajas <adrian.barajas@utexas.edu>
+Date:   Mon Feb 12 14:18:11 2024 -0600
+
+    specified the encoding as UTF-8 when opening the JSON files
+
+commit 6fa8708b06b9b4dddf695324e40386b241ccc887
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Mon Feb 12 13:18:45 2024 -0600
+
+    updated video page to card ui
+
+commit 5da1c4bf09f6215fc1836e370656afb6f1fb29b4
+Merge: 1b9077e 0a07cb3
+Author: Nirmal Narendra Patel <nirmpatel@utexas.edu>
+Date:   Mon Feb 12 16:48:26 2024 +0000
+
+    Merge branch 'main' into 'main'
+    
+    Fixed navbar
+    
+    See merge request cs331e1/ytubedb!8
+
+commit 1b9077e9d149de05633d704681a88d51727ce5e8
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Mon Feb 12 10:45:03 2024 -0600
+
+    update repo links
+
+commit 0a07cb3768a176b4ba52abc6b491440957b0601a
+Author: nirmpatel <nirmpatel@utexas.edu>
+Date:   Mon Feb 12 10:36:12 2024 -0600
+
+    Fixed navbar
+
+commit 19fc998cf69bd3b20491c2be44343f4a87d504a3
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Mon Feb 12 10:13:15 2024 -0600
+
+    embedded videos for videos page
+
+commit fde13703402026fa5139d902d147479a12726fe5
+Author: Junyu Yao <yaojunyu@utexas.edu>
+Date:   Mon Feb 12 10:06:40 2024 -0600
+
+    Add UI for playlist page
+
+commit 3341266979a531363754124edd31412a144edba6
+Author: Junyu Yao <yaojunyu@utexas.edu>
+Date:   Mon Feb 12 09:41:40 2024 -0600
+
+    Adjust photos, close #2
+
+commit 41069fd36451c522406ff8ecebf5754068014b24
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Mon Feb 12 00:43:16 2024 -0600
+
+    "formatting, added videos page, fixed links"
+
+commit 483de0d16804f6eb550f38823da837dd91afd8d2
+Author: Adrian Barajas <adrian.barajas@utexas.edu>
+Date:   Sun Feb 11 20:05:57 2024 -0600
+
+    Added channel temporary JSON data and created temporary channel html doc to show that data
+
+commit e7f5959c71ca50cc7d289cf616b7a3417dd60f34
+Author: Adrian Barajas <adrian.barajas@utexas.edu>
+Date:   Sun Feb 11 18:19:06 2024 -0600
+
+    Added Adrian's image and profile to about.html
+
+commit 44e0decd38773d635775fda987f0a9620a422eac
+Author: Junyu Yao <yaojunyu@utexas.edu>
+Date:   Sun Feb 11 15:24:21 2024 -0600
+
+    Add playlist
+
+commit d580b883a95102a0499b5e998c7c359b56d52218
+Merge: 0f0a2dc 19f9f50
+Author: Nirmal Narendra Patel <nirmpatel@utexas.edu>
+Date:   Sun Feb 11 20:19:51 2024 +0000
+
+    Merge branch 'main' into 'main'
+    
+    Index page changed
+    
+    See merge request cs331e1/ytubedb!7
+
+commit 19f9f50b47f3b99a617febf0c0009aff9870de20
+Author: nirmpatel <nirmpatel@utexas.edu>
+Date:   Sun Feb 11 14:18:50 2024 -0600
+
+    Index page changed
+
+commit 0f0a2dccf84fa1be92f09056558c6aad34f36dbb
+Merge: 6c115d8 dc31aa1
+Author: Nirmal Narendra Patel <nirmpatel@utexas.edu>
+Date:   Sun Feb 11 04:31:27 2024 +0000
+
+    Merge branch 'main' into 'main'
+    
+    Splash page finished
+    
+    See merge request cs331e1/ytubedb!6
+
+commit dc31aa15a4684fdf02d7618468e435a3835f0064
+Author: nirmpatel <nirmpatel@utexas.edu>
+Date:   Sat Feb 10 22:30:11 2024 -0600
+
+    URL fixed
+
+commit f6b65e103dc87be4aabc6d91dd8faab70580c9da
+Author: nirmpatel <nirmpatel@utexas.edu>
+Date:   Sat Feb 10 22:22:36 2024 -0600
+
+    Splash BG image
+
+commit e6666a2983794ce735a0dc6bf9eb5998012f487b
+Author: nirmpatel <nirmpatel@utexas.edu>
+Date:   Sat Feb 10 22:22:18 2024 -0600
+
+    Splash page finished
+
+commit 6c115d82169a80fe50e6227d36e4339e005b3aed
+Merge: 4e4c51d ec9c014
+Author: Nirmal Narendra Patel <nirmpatel@utexas.edu>
+Date:   Sun Feb 11 02:23:41 2024 +0000
+
+    Merge branch 'main' into 'main'
+    
+    Splash added
+    
+    See merge request cs331e1/ytubedb!5
+
+commit ec9c0144c201139c08b9a41a81b2a0f922967738
+Author: nirmpatel <nirmpatel@utexas.edu>
+Date:   Sat Feb 10 20:23:01 2024 -0600
+
+    Pages linked
+
+commit 55f4f32b276e87f6541ec1ccd62c1bfd1a85730d
+Author: nirmpatel <nirmpatel@utexas.edu>
+Date:   Sat Feb 10 20:22:35 2024 -0600
+
+    Splash skeleton added
+
+commit 4e4c51d41afb4291de021509fdef5be52ebbebb2
+Merge: 5f247b2 559373b
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Sat Feb 10 16:05:47 2024 -0600
+
+    Merge branch 'main' of https://gitlab.com/cs331e1/ytubedb
+
+commit 5f247b220cce70d49bd9ca22f1d78be806495827
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Sat Feb 10 16:03:34 2024 -0600
+
+    fixed flask requirement version
+
+commit 559373b9b6dc5b9b37090d283ff45fd752af8289
+Merge: 1154c1d 491706a
+Author: Nirmal Narendra Patel <nirmpatel@utexas.edu>
+Date:   Sat Feb 10 21:48:52 2024 +0000
+
+    Merge branch 'main' into 'main'
+    
+    About page added in.py
+    
+    See merge request cs331e1/ytubedb!4
+
+commit 491706a2802f2395f8a2c52801648763370a3e8c
+Author: nirmpatel <nirmpatel@utexas.edu>
+Date:   Sat Feb 10 15:47:34 2024 -0600
+
+    About page added in.py
+
+commit 1154c1d52b5945bce9347d93636a0e22dcf4b1db
+Merge: 020f3be 4afdb06
+Author: Nirmal Narendra Patel <nirmpatel@utexas.edu>
+Date:   Sat Feb 10 21:21:45 2024 +0000
+
+    Merge branch 'main' into 'main'
+    
+    About skeleton done
+    
+    See merge request cs331e1/ytubedb!3
+
+commit 4afdb063d543dcd36901a03827fd94d50dd4788c
+Author: nirmpatel <nirmpatel@utexas.edu>
+Date:   Sat Feb 10 15:19:54 2024 -0600
+
+    About skeleton done
+
+commit eeab63bbb5d0933670e4de1f1e6560ed58989eda
+Author: nirmpatel <nirmpatel@utexas.edu>
+Date:   Sat Feb 10 14:59:52 2024 -0600
+
+    navbar sticky
+
+commit c3d2718ee3858936e5c6611dd661df378ab9f45b
+Author: nirmpatel <nirmpatel@utexas.edu>
+Date:   Sat Feb 10 14:36:07 2024 -0600
+
+    Members added
+
+commit 020f3beef584151e1993fb22a449cce6ffcd879a
+Merge: ef2e740 88b7835
+Author: Nirmal Narendra Patel <nirmpatel@utexas.edu>
+Date:   Sat Feb 10 20:24:02 2024 +0000
+
+    Merge branch 'main' into 'main'
+    
+    About page added
+    
+    See merge request cs331e1/ytubedb!2
+
+commit 88b783530ed16570b36d7bca0a358c0dc4d0b5ce
+Author: nirmpatel <nirmpatel@utexas.edu>
+Date:   Sat Feb 10 14:23:18 2024 -0600
+
+    About page added
+
+commit ef2e7403d5af83754d4cbad85d51812130b19b3b
+Merge: eeb5c4e de3a6cb
+Author: Nirmal Narendra Patel <nirmpatel@utexas.edu>
+Date:   Sat Feb 10 20:21:58 2024 +0000
+
+    Merge branch 'main' into 'main'
+    
+    About page
+    
+    See merge request cs331e1/ytubedb!1
+
+commit de3a6cb5979b4572420f092e0e63d5a7a1a11efd
+Author: nirmpatel <nirmpatel@utexas.edu>
+Date:   Sat Feb 10 14:15:27 2024 -0600
+
+    About page added
+
+commit d3814d726110f46b4b13cc8fdf524be36e864f3d
+Author: nirmpatel <nirmpatel@utexas.edu>
+Date:   Sat Feb 10 14:15:11 2024 -0600
+
+    Images folder added
+
+commit eeb5c4e1fdb6ef6b2c31fed6924b5da98d26a8fa
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Sat Feb 10 13:50:19 2024 -0600
+
+    added temporary videos page placeholder
+
+commit 88e6e2411f5f42f8f6e61c8909fecd9e210f5127
+Author: Nirmal Narendra Patel <nirmpatel@utexas.edu>
+Date:   Sat Feb 10 18:37:52 2024 +0000
+
+    Update .gitignore
+
+commit 6a87bf8dd6a52ce2fe6025a4ac2a1ad5e590d57e
+Author: Alec Liu <alec.liu@utexas.edu>
+Date:   Fri Feb 9 19:11:21 2024 -0600
+
+    new project name and path updated
+
+commit ed4195e532b8e922cfe810b21c889b7ed05fc36e
+Author: Junyu Yao <yaojunyu@utexas.edu>
+Date:   Wed Feb 7 11:36:47 2024 -0600
+
+    Change requirement to requirements
+
+commit 3de5bbd62692c00312a5d543391f60c85556600c
+Author: Junyu Yao <yaojunyu@utexas.edu>
+Date:   Wed Feb 7 11:19:19 2024 -0600
+
+    Changed port number
+
+commit 92d49809d7ccdda49ab06923f14653558be30374
+Author: Junyu Yao <yaojunyu@utexas.edu>
+Date:   Wed Feb 7 10:29:48 2024 -0600
+
+    Add Initial structure
+
+commit 74ebc69e6b1fcae20df519d0659483bc77ab0d61
+Author: Junyu Yao <yaojunyu@utexas.edu>
+Date:   Mon Jan 29 16:05:59 2024 +0000
+
+    Initial commit

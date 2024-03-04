@@ -1,0 +1,7 @@
+.env
+.DS_Store
+.mypy_cache
+.pylintrc
+*.pyc
+*.tmp
+venv/

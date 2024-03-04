@@ -1,0 +1,1111 @@
+{
+  "kind": "youtube#playlistListResponse",
+  "etag": "BDNt_N5E4Z-Bnh0ggVOuwk474zI",
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 147,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "L4O9ICPjEEdyfwQAE-JY8ij580c",
+      "id": "PLOU2XLYxmsILxbiyDRGC94XuT2dBXNY3n",
+      "snippet": {
+        "publishedAt": "2023-12-11T15:57:10Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "ML on Raspberry Pi with MediaPipe",
+        "description": "Get started with Google's on-device machine learning tool, MediaPipe, and learn how you can integrate it into your MediaPipe apps. \n\nFind tutorials on how to create ML models, implement common ML tasks, such as hand gesture recognition, audio classification, and text similarity in MediaPipe apps, and more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-RUVM_cXn18/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-RUVM_cXn18/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-RUVM_cXn18/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-RUVM_cXn18/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-RUVM_cXn18/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "ML on Raspberry Pi with MediaPipe",
+          "description": "Get started with Google's on-device machine learning tool, MediaPipe, and learn how you can integrate it into your MediaPipe apps. \n\nFind tutorials on how to create ML models, implement common ML tasks, such as hand gesture recognition, audio classification, and text similarity in MediaPipe apps, and more!"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 7
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "xiYlAaCrD4T7Bu0j3VNb1swrGoM",
+      "id": "PLOU2XLYxmsILVnjfBvtTWZC4YiHBwz-4l",
+      "snippet": {
+        "publishedAt": "2023-10-05T14:18:50Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Getting Started with MediaPipe for Web",
+        "description": "Get started with Google's on-device machine learning tool, MediaPipe, and learn how you can integrate it into your web apps. \n\nFind tutorials on implementing common ML tasks, such as hand gesture recognition, image classification, and object detection in web apps, and much more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C3-WnwzsaJA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C3-WnwzsaJA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C3-WnwzsaJA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C3-WnwzsaJA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C3-WnwzsaJA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Getting Started with MediaPipe for Web",
+          "description": "Get started with Google's on-device machine learning tool, MediaPipe, and learn how you can integrate it into your web apps. \n\nFind tutorials on implementing common ML tasks, such as hand gesture recognition, image classification, and object detection in web apps, and much more!"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 6
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "tRGcxrA-uqB5CSSlEfhvd6no6ws",
+      "id": "PLOU2XLYxmsIIof-OQwbS0jL7nBTzHYFSv",
+      "snippet": {
+        "publishedAt": "2023-09-28T14:06:21Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Build with Google AI",
+        "description": "Build practical solutions with Google AI technology from content searches to coding assistance and more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gsxD5_lb3HE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gsxD5_lb3HE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gsxD5_lb3HE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gsxD5_lb3HE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gsxD5_lb3HE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Build with Google AI",
+          "description": "Build practical solutions with Google AI technology from content searches to coding assistance and more!"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 12
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "LmgW0efXI0ibmmMJxh2cuDcpE7s",
+      "id": "PLOU2XLYxmsII2j07liOC0htEsjOI3IPCt",
+      "snippet": {
+        "publishedAt": "2023-07-31T20:27:29Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "2023 Solution Challenge Demo Day",
+        "description": "Check out the 2023 Solution Challenge Demo Day hosted by Google Developer Student Clubs (GDSC). Don't miss the opportunity to watch the top 10 finalists demo their projects supporting the UN Sustainable Development Goals and celebrate the Top 3 winning teams!\n\nLearn more about Google Developer Student Clubs by visiting https://goo.gle/gdsc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/duP_AI2B2XM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/duP_AI2B2XM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/duP_AI2B2XM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/duP_AI2B2XM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/duP_AI2B2XM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "2023 Solution Challenge Demo Day",
+          "description": "Check out the 2023 Solution Challenge Demo Day hosted by Google Developer Student Clubs (GDSC). Don't miss the opportunity to watch the top 10 finalists demo their projects supporting the UN Sustainable Development Goals and celebrate the Top 3 winning teams!\n\nLearn more about Google Developer Student Clubs by visiting https://goo.gle/gdsc"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 7
+      }
+    },
+
+    {
+      "kind": "youtube#playlist",
+      "etag": "L0dksJZ9MafJGL554pM6otcMRi0",
+      "id": "PLOU2XLYxmsIKSctOwxQYjYDtQ-8Uops16",
+      "snippet": {
+        "publishedAt": "2023-06-12T17:20:52Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Learning with Firebase",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xXZzobTPojs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xXZzobTPojs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xXZzobTPojs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xXZzobTPojs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xXZzobTPojs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Learning with Firebase",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 12
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "jqjO5DFdiJ0RRmEORxaP9nXQbbM",
+      "id": "PLOU2XLYxmsIK3U6yyp5vsBXFHDpC0XTXV",
+      "snippet": {
+        "publishedAt": "2023-06-01T18:01:23Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Learning with Flutter",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HQT8ABlgsq0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HQT8ABlgsq0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HQT8ABlgsq0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HQT8ABlgsq0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HQT8ABlgsq0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Learning with Flutter",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 13
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "c8Imc6B7Ur1SAitlwyGHPraJV1E",
+      "id": "PLOU2XLYxmsIKsEnF6CdfRK1Vd6XUn_QMu",
+      "snippet": {
+        "publishedAt": "2023-05-10T17:41:28Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google I/O Keynote Films",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ldtjtjoLAAg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ldtjtjoLAAg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ldtjtjoLAAg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ldtjtjoLAAg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ldtjtjoLAAg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Google I/O Keynote Films",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 5
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "QexNapLbZhw0_JQGih_MujjVz4Y",
+      "id": "PLOU2XLYxmsIJPG0iD9ByvcZAtF5ihLKWQ",
+      "snippet": {
+        "publishedAt": "2023-04-21T01:04:26Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Cloud Sessions at Google I/O 2023",
+        "description": "Simplify and scale end-to-end development. Watch this playlist to discover, innovate, and find inspiration for your next cloud project with cloud sessions and keynotes from Google I/O 2023.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LDbD3ioDkYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LDbD3ioDkYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LDbD3ioDkYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LDbD3ioDkYA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LDbD3ioDkYA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Cloud Sessions at Google I/O 2023",
+          "description": "Simplify and scale end-to-end development. Watch this playlist to discover, innovate, and find inspiration for your next cloud project with cloud sessions and keynotes from Google I/O 2023."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 17
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "zcLcPZmqbKPmZGAJMUlc5BME7qg",
+      "id": "PLOU2XLYxmsIKqt_HI3yc516rbBca_hli2",
+      "snippet": {
+        "publishedAt": "2023-04-20T23:13:24Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "AI/ML Sessions at Google I/O 2023",
+        "description": "Bring the power of machine learning to your apps and workflows. Whether you are a new or experienced AI/ML developer, this playlist highlights generative AI sessions, the future of work with LLMs, and more from Google I/O 2023.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ot0I7YE7VcE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ot0I7YE7VcE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ot0I7YE7VcE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ot0I7YE7VcE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ot0I7YE7VcE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "AI/ML Sessions at Google I/O 2023",
+          "description": "Bring the power of machine learning to your apps and workflows. Whether you are a new or experienced AI/ML developer, this playlist highlights generative AI sessions, the future of work with LLMs, and more from Google I/O 2023."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 29
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "_6x5XyAdxfI8tTwCOLXz_jsvPu4",
+      "id": "PLOU2XLYxmsIJGxIV8Lt8gF_79Z334LQ6h",
+      "snippet": {
+        "publishedAt": "2023-04-20T23:11:11Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Web Sessions at Google I/O 2023",
+        "description": "Create fast, secure sites and apps for the open web. This playlist features all the web session from Google I/O 2023. Whether it's leveraging Google Chrome, Angular, Firebase, or other Google tools, this playlist features the latest innovations and updates for web developers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gkAYHomO5Hg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gkAYHomO5Hg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gkAYHomO5Hg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gkAYHomO5Hg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gkAYHomO5Hg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Web Sessions at Google I/O 2023",
+          "description": "Create fast, secure sites and apps for the open web. This playlist features all the web session from Google I/O 2023. Whether it's leveraging Google Chrome, Angular, Firebase, or other Google tools, this playlist features the latest innovations and updates for web developers."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 52
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "aDLl-tGDc-HPxhlm1gdGSSuczlk",
+      "id": "PLOU2XLYxmsILHz1QZpXkQpPUxaEYiuGVT",
+      "snippet": {
+        "publishedAt": "2023-04-20T23:10:03Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Mobile Sessions at Google I/O 2023",
+        "description": "Develop for a range of audiences and form factors. This playlist is for developers seeking insights into best practices, unique perspectives, and the latest announcements in mobile app development at Google I/O 2023.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w1Fqx_2SRro/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w1Fqx_2SRro/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w1Fqx_2SRro/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w1Fqx_2SRro/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w1Fqx_2SRro/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Mobile Sessions at Google I/O 2023",
+          "description": "Develop for a range of audiences and form factors. This playlist is for developers seeking insights into best practices, unique perspectives, and the latest announcements in mobile app development at Google I/O 2023."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 65
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "rX2319Fmtao_V_4OhwjUZjdgW9w",
+      "id": "PLOU2XLYxmsILZnKn6Erxdyhxmc3fxyitP",
+      "snippet": {
+        "publishedAt": "2023-04-20T14:41:30Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "ML on Android with MediaPipe",
+        "description": "Get started with Google's on-device machine learning tool, MediaPipe, and learn how you can integrate it into your Android apps. \n\nFind tutorials on how to create ML models, implement common ML tasks, such as hand gesture recognition, audio classification, and text similarity in Android apps, and more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AkgDid5oYFM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AkgDid5oYFM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AkgDid5oYFM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/AkgDid5oYFM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/AkgDid5oYFM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "ML on Android with MediaPipe",
+          "description": "Get started with Google's on-device machine learning tool, MediaPipe, and learn how you can integrate it into your Android apps. \n\nFind tutorials on how to create ML models, implement common ML tasks, such as hand gesture recognition, audio classification, and text similarity in Android apps, and more!"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 9
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "LO5ILG98pN8IkhRH9Es4_6Dipz0",
+      "id": "PLOU2XLYxmsIIwZQkAPhJZg8jaNrrHk1DH",
+      "snippet": {
+        "publishedAt": "2023-04-13T22:52:22Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "All Google I/O 2023 Sessions",
+        "description": "This playlist has all the Keynotes, technical sessions, and workshops from Google I/O 2023. \n\nBe the first to learn about Google’s latest developer solutions, products, and technology so you can find the right product for your needs and seamlessly integrate mobile, web, AI/ML, and cloud tech using tools from Google’s ecosystem.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cNfINi5CNbY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cNfINi5CNbY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cNfINi5CNbY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cNfINi5CNbY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cNfINi5CNbY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "All Google I/O 2023 Sessions",
+          "description": "This playlist has all the Keynotes, technical sessions, and workshops from Google I/O 2023. \n\nBe the first to learn about Google’s latest developer solutions, products, and technology so you can find the right product for your needs and seamlessly integrate mobile, web, AI/ML, and cloud tech using tools from Google’s ecosystem."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 122
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "J5MPnXuAWFc015Hp6k8rIf9wMUo",
+      "id": "PLOU2XLYxmsIIKmZTma7hvZ-0-vMGunDQi",
+      "snippet": {
+        "publishedAt": "2023-04-13T22:49:29Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "All Google I/O 2023 Technical Sessions",
+        "description": "This playlist is for developers and tech enthusiasts looking for in-depth discussions, hands-on demonstrations, and overall best developing practices discussed at Google I/O 2023.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GeyvIbBS7s8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GeyvIbBS7s8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GeyvIbBS7s8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GeyvIbBS7s8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GeyvIbBS7s8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "All Google I/O 2023 Technical Sessions",
+          "description": "This playlist is for developers and tech enthusiasts looking for in-depth discussions, hands-on demonstrations, and overall best developing practices discussed at Google I/O 2023."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 92
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "_TmGjitLqKmflKJQYmqyR3uGklQ",
+      "id": "PLOU2XLYxmsIKOo-2roVVwqblIx-AV7oCc",
+      "snippet": {
+        "publishedAt": "2023-04-13T22:47:15Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "All Google I/O 2023 Workshops",
+        "description": "Featuring a wide variety of topics and expert presenters, this playlist is the ultimate resource for those interested in all the workshops from Google I/O 2023.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TbxCz5AljQk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TbxCz5AljQk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TbxCz5AljQk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/TbxCz5AljQk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/TbxCz5AljQk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "All Google I/O 2023 Workshops",
+          "description": "Featuring a wide variety of topics and expert presenters, this playlist is the ultimate resource for those interested in all the workshops from Google I/O 2023."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 13
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "Mkh0MagOi-4hd6Yzu1KV8aKUutg",
+      "id": "PLOU2XLYxmsIJRqx9Qn1SmTU9GZTwK3TzG",
+      "snippet": {
+        "publishedAt": "2023-04-13T22:40:55Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "All Google I/O 2023 Keynotes",
+        "description": "Whether you're interested in new product releases or emerging technologies, this playlist has the updates for developers and enthusiasts across Google’s product ecosystem announced during Google I/O 2023.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cNfINi5CNbY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cNfINi5CNbY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cNfINi5CNbY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cNfINi5CNbY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cNfINi5CNbY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "All Google I/O 2023 Keynotes",
+          "description": "Whether you're interested in new product releases or emerging technologies, this playlist has the updates for developers and enthusiasts across Google’s product ecosystem announced during Google I/O 2023."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 17
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "_S40Od1hT4gqMLAmeOdgtcI-kDo",
+      "id": "PLOU2XLYxmsIK6lzgl0-Cb7YfDoMchPDna",
+      "snippet": {
+        "publishedAt": "2023-03-29T23:58:49Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google @ Events",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CH1pb_IsSNQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CH1pb_IsSNQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CH1pb_IsSNQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CH1pb_IsSNQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CH1pb_IsSNQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Google @ Events",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "itemCount": 176
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "nPCFVSHXglsjGVyqPLsIcy4ftmU",
+      "id": "PLOU2XLYxmsIJ9ktgk5CnbtQB332XfWQef",
+      "snippet": {
+        "publishedAt": "2023-03-29T23:22:22Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Architecting with Google Cloud",
+        "description": "Catch a glimpse of how to get started with Google Cloud Tech and what its technology can do for your developer projects.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/33cOFFOQJlc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/33cOFFOQJlc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/33cOFFOQJlc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/33cOFFOQJlc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/33cOFFOQJlc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Architecting with Google Cloud",
+          "description": "Catch a glimpse of how to get started with Google Cloud Tech and what its technology can do for your developer projects."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 21
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "g5NUiSmd7z3Sowk0M-oMXbxolOw",
+      "id": "PLOU2XLYxmsIIQye6fWbHmf9HhRKs0z9r7",
+      "snippet": {
+        "publishedAt": "2023-03-29T20:40:22Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Mobile Development with Google",
+        "description": "Take your mobile app to the next level with tutorials and tips on app customization, architectures, development, and more!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7HEDTxXc2NE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7HEDTxXc2NE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7HEDTxXc2NE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7HEDTxXc2NE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7HEDTxXc2NE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Mobile Development with Google",
+          "description": "Take your mobile app to the next level with tutorials and tips on app customization, architectures, development, and more!"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 22
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "3jfkZhj3cs_aHQn6Qc4ZG1HJNw0",
+      "id": "PLOU2XLYxmsIIQu60hsxQdxDH4lcZOMRSS",
+      "snippet": {
+        "publishedAt": "2023-03-29T20:17:34Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Hear Google Developer Stories",
+        "description": "See real stories about how businesses are using Google technology, from Google Maps Platform to Android and more, to improve their customers' lives.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DNFxfd3UhgA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DNFxfd3UhgA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DNFxfd3UhgA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DNFxfd3UhgA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DNFxfd3UhgA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Hear Google Developer Stories",
+          "description": "See real stories about how businesses are using Google technology, from Google Maps Platform to Android and more, to improve their customers' lives."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 16
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "mm6jBQgCrZ4WhKpozXKInN27C3E",
+      "id": "PLOU2XLYxmsILMUsDRrVoRRlL29p8LHFIT",
+      "snippet": {
+        "publishedAt": "2023-03-29T19:08:05Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Web Development with Google",
+        "description": "Boost your website's speed, debug using DevTools, increase organic traffic on Search, and more with these tutorials and helpful tips.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Wx3SGdB0KU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Wx3SGdB0KU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Wx3SGdB0KU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Wx3SGdB0KU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Wx3SGdB0KU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Web Development with Google",
+          "description": "Boost your website's speed, debug using DevTools, increase organic traffic on Search, and more with these tutorials and helpful tips."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 28
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "o2CMtLXzM654BdMfpAHIbVwwEEM",
+      "id": "PLOU2XLYxmsIJP5qhmw5tbNP0zN3k3ydaI",
+      "snippet": {
+        "publishedAt": "2023-03-28T20:51:19Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Getting Started with Google Technology",
+        "description": "This playlist is full of introductory content to help you get started on Flutter, Android, GCT, Google Research, and Firebase.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1Fg7cwkmj_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1Fg7cwkmj_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1Fg7cwkmj_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1Fg7cwkmj_c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1Fg7cwkmj_c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Getting Started with Google Technology",
+          "description": "This playlist is full of introductory content to help you get started on Flutter, Android, GCT, Google Research, and Firebase."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 21
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "6VX0QQ6lllEmiB-cXCym3r4tTF4",
+      "id": "PLOU2XLYxmsIKIKuo6grumFEzzlQ4FXUsR",
+      "snippet": {
+        "publishedAt": "2023-03-28T19:13:53Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "AI and ML @ Google",
+        "description": "Learn about Google’s AI and ML developer tools with this playlist including high level concepts, tutorials, and inspirations for your next project!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_QcF39FXzX0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_QcF39FXzX0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_QcF39FXzX0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_QcF39FXzX0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_QcF39FXzX0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "AI and ML @ Google",
+          "description": "Learn about Google’s AI and ML developer tools with this playlist including high level concepts, tutorials, and inspirations for your next project!"
+        }
+      },
+      "contentDetails": {
+        "itemCount": 24
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "UhyiFpiU5oemySSQ4AHtGsW1qxk",
+      "id": "PLOU2XLYxmsIKlfnCFova6i5Iw9BzVF7GY",
+      "snippet": {
+        "publishedAt": "2023-03-24T19:29:29Z",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Stay up to date!",
+        "description": "Get a first look at Google's latest releases, news, and updates for developers.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i2sXwaCK3Vs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i2sXwaCK3Vs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i2sXwaCK3Vs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i2sXwaCK3Vs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Google for Developers",
+        "localized": {
+          "title": "Stay up to date!",
+          "description": "Get a first look at Google's latest releases, news, and updates for developers."
+        }
+      },
+      "contentDetails": {
+        "itemCount": 31
+      }
+    }
+  ]
+}
